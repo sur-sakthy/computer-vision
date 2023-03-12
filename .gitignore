@@ -1,5 +1,6 @@
 .idea/
 imagenette2-160/
+.DS_Store
 
 # datasets - too large for GitHub
 imagenette2-160.tgz
